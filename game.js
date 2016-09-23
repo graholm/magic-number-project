@@ -7,10 +7,10 @@ var obj = {
   f: 6,
 }
 
+var input = $("#input");
 
 
-
-var text = 'ab';
+var text = #input;
 text.split('').forEach(function(c) {
   console.log(c);
 });
