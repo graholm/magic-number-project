@@ -15,4 +15,4 @@ text.split('').forEach(function(c) {
 });
 
 
-console.log(obj["a"] + obj["e"])
+console.log(obj["a"] + obj["d"])
