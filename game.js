@@ -7,11 +7,10 @@ var obj = {
   f: 6,
 }
 
-var input = $("#input");
+var nameimput = $("#input");
 
 
-var text = #input;
-
+var text = #imput;
 
 text.split('').forEach(function(c) {
   console.log(c);
