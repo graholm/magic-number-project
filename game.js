@@ -7,10 +7,13 @@ var obj = {
   f: 6,
 }
 
-console.log(obj["a"] + obj["e"])
 
 
-var text = 'abcd';
+
+var text = 'ab';
 text.split('').forEach(function(c) {
-  console.log(text);
+  console.log(c);
 });
+
+
+console.log(obj["a"] + obj["e"])
