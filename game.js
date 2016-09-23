@@ -11,6 +11,8 @@ var input = $("#input");
 
 
 var text = #input;
+
+
 text.split('').forEach(function(c) {
   console.log(c);
 });
