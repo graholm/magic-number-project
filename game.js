@@ -9,10 +9,7 @@ var obj = {
 
 var nameimput = $("#input");
 
-
-var text = #imput;
-
-text.split('').forEach(function(c) {
+input.split('').forEach(function(c) {
   console.log(c);
 });
 
