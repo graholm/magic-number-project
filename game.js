@@ -10,13 +10,16 @@ quantityInput.keydown(function(e) {
     console.log ("H");
   } 
   if (keyCode == 81) {	
-    console.log ("");
+    console.log ("Q");
   }
-  if (keyCode == 13) {	
-    console.log (inputValue);
+  if (keyCode == 87 {	
+      console.log ("W");
   }
-  if (keyCode == 13) {	
-    console.log (inputValue);
+if (keyCode == 69 {	
+console.log ("E");
   }
+if (keyCode == 69 {	
+console.log ("E");
+}
 })
 
