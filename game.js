@@ -10,4 +10,7 @@ quantityInput.keydown(function(e) {
   if (keyCode == 13) {	    
    console.log (inputValue);
   }
+ else (keyCode == 72) {	    
+    console.log ("yay you wrote h");
+  }
 })
