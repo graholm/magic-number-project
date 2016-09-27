@@ -15,11 +15,10 @@ quantityInput.keydown(function(e) {
   if (keyCode == 87 {	
       console.log ("W");
   }
-if (keyCode == 69 {	
-console.log ("E");
+  if (keyCode == 69 {	
+      console.log ("E");
   }
-if (keyCode == 69 {	
-console.log ("E");
-}
+  if (keyCode == 82 {	
+      console.log ("R");}
 })
 
