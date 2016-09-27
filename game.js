@@ -6,8 +6,12 @@ quantityInput.keydown(function(e) {
   var keyCode = e.keyCode
   console.log (e.keyCode)
   var inputValue = quantityInput.val();
-
-  if (keyCode == 13) {	    
+  if (hour < 18) {
+    greeting = "Good day";
+  } else {
+    greeting = "Good evening";
+  }
+  if (keyCode == 13) {    
    console.log (inputValue);
   }
  else (keyCode == 72) {	    
