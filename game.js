@@ -11,3 +11,11 @@ quantityInput.keydown(function(e) {
    console.log (inputValue);
   }
 })
+if (keyCode == 73) {	    
+  console.log (inputValue);
+}
+})
+if (keyCode == 13) {	    
+  console.log (inputValue);
+}
+})
