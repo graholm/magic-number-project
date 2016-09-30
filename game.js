@@ -7,13 +7,12 @@ quantityInput.keydown(function(e) {
   var inputValue = quantityInput.val();
   
   if (keyCode == 13) {
-    console.log(inputValue.charCodeAt(1))+
-      
+    console.log(inputValue.charCodeAt(1))
     
 
 var arrValues = inputValue.split('');
-$.each(arrValues, function (intIndex, objValue) {
-    console.log (objValue);
+$.each(arrValues, function (intIndex, char) {
+    console.log (char.charCodeAt(0));
 })
 
   }
