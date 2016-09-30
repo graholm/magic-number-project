@@ -19,6 +19,7 @@ quantityInput.keydown(function(e) {
       console.log ("E");
   }
   if (keyCode == 82 {	
-      console.log ("R");}
-})
+      console.log ("R");
+}
+)
 
