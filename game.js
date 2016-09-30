@@ -14,8 +14,9 @@ var arrValues = inputValue.split('');
 var sum = 0;     
 $.each(arrValues, function (intIndex, char) {
     console.log (char.charCodeAt(0));
-  var sum = var sum;
+  sum = sum + char.charCodeAt(0); 
 })
 
+console.log 
   }
 })
