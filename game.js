@@ -10,6 +10,3 @@ quantityInput.keydown(function(e) {
     console.log ("H"); 
   }
 })
-  if (keyCode == 81) {	
-    console.log ("Q");
-  }
