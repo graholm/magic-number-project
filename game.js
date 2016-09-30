@@ -7,8 +7,7 @@ quantityInput.keydown(function(e) {
   var inputValue = quantityInput.val();
  
   if (keyCode == 13) {	
-    console.log ("H");
-  } 
+    console.log ("H"); 
   if (keyCode == 81) {	
     console.log ("Q");
 }}
