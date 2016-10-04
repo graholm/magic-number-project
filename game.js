@@ -18,8 +18,9 @@ $.each(arrValues, function (intIndex, char) {
 
 console.log (sum);
     
-    sum = sum +1
+    sum = sum /10
     console.log (sum);
+    
 
   
   }
