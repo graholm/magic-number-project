@@ -1,5 +1,5 @@
 var submit = $(".element-input")
-console.log ("quantityInput");
+console.log (submit);
 
 
 
