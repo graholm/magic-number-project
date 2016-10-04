@@ -1,3 +1,4 @@
+var quantityInput<input type="submit" value="Submit">
 var quantityInput = $(".element-quantity-input")
 console.log ("quantityInput");
 
@@ -8,7 +9,6 @@ quantityInput.keydown(function(e) {
   if (keyCode == 13) {
     console.log(inputValue.charCodeAt(1))
     
-
 var arrValues = inputValue.split('');
 var sum = 0;     
 $.each(arrValues, function (intIndex, char) {
@@ -20,11 +20,6 @@ console.log (sum);
     
     sum = sum /10
     console.log (sum);
-    
-    ("sum", function(value) {
-      $("#value-output").html(value)
-    })
-
 
   
   }
