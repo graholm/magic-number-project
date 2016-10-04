@@ -1,4 +1,8 @@
-var quantityInput<input type="submit" value="Submit">
+var submit = $(".element-input")
+console.log ("quantityInput");
+
+
+
 var quantityInput = $(".element-quantity-input")
 console.log ("quantityInput");
 
