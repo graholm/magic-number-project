@@ -21,6 +21,10 @@ console.log (sum);
     sum = sum /10
     console.log (sum);
     
+    ("sum", function(value) {
+      $("#value-output").html(value)
+    })
+
 
   
   }
