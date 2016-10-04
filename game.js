@@ -22,7 +22,7 @@ $.each(arrValues, function (intIndex, char) {
 
 console.log (sum);
     
-    sum = sum /10
+    sum = sum /40
     console.log (sum);
 
   
