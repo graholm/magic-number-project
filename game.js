@@ -1,5 +1,4 @@
-var submit = $(".element-input")
-console.log (submit);
+
 
 
 
