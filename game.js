@@ -1,4 +1,5 @@
-
+var valueseason = $('#dropDownId:selected').val();
+console.log (value
 
 
 
