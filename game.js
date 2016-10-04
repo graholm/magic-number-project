@@ -21,6 +21,10 @@ console.log (sum);
     
     sum = sum /40
     console.log (sum);
+    sum("sum", function(value) {
+      $("#value-output").html(value)
+    })
+
 
   
   }
