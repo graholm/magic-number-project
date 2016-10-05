@@ -19,5 +19,7 @@ console.log (sum);
     sum = Math.round(sum /40)
     
     console.log (sum);
+    
+    document.write(sum)
   }
 })
