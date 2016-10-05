@@ -1,4 +1,5 @@
-var valueseason = $('#dropDownId').val();
+var valueseason = $("#dropDownId").val();
+if
 console.log (valueseason)
 
 
