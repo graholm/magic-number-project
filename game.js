@@ -1,6 +1,5 @@
 var valueseason = $("#dropDownId").val();
 if
-console.log (valueseason)
 
 
 
@@ -21,7 +20,7 @@ $.each(arrValues, function (intIndex, char) {
 console.log (sum);
     
     sum = Math.round(sum /40)
-    
+      <button type="button" onclick="document.write(sum)">Try it</button>
     console.log (sum);
   }
 })
