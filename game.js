@@ -1,7 +1,4 @@
 var valueseason = $("#dropDownId").val();
-if
-
-
 
 
 var quantityInput = $(".element-quantity-input")
