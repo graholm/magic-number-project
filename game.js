@@ -17,7 +17,7 @@ var sum = 0;
 $.each(arrValues, function (intIndex, char) {
  sum = sum + char.charCodeAt(0); 
 })
-
+console.log (sum)
     
     sum = Math.round(sum /season)
     
