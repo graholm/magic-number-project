@@ -9,6 +9,8 @@ quantityInput.keydown(function(e) {
   if (keyCode == 13) {
     var valueseason = $("#dropDownId").val();
     console.log (valueseason)
+    var season = (valueseason); 
+    console.log (season)
   
 var arrValues = inputValue.split('');
 var sum = 0;     
