@@ -2,8 +2,11 @@ var valueseason = $("#dropDownId").val();
 console.log (valueseason)
 
 
+
 var quantityInput = $(".element-quantity-input")
 quantityInput.keydown(function(e) {
+  // get the selection dropdown
+  var valueseason = $("#dropDownId").val();
   var keyCode = e.keyCode
   var inputValue = quantityInput.val();
   
