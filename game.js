@@ -21,7 +21,6 @@ $.each(arrValues, function (intIndex, char) {
  sum = sum + char.charCodeAt(0); 
 })
 
-console.log (sum);
     
     sum = Math.round(sum /45)
     
