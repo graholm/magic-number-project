@@ -16,7 +16,7 @@ $.each(arrValues, function (intIndex, char) {
 
 console.log (sum);
     
-    sum = Math.round(sum /40)
+    sum = Math.round(sum /45)
     
     console.log (sum);
     
