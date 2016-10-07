@@ -19,7 +19,7 @@ $.each(arrValues, function (intIndex, char) {
 })
 console.log (sum)
     
-    sum = Math.round(sum /season)
+sum = Math.round (sum /season)
     
     console.log (sum);
     
