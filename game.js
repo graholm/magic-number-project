@@ -7,6 +7,7 @@ quantityInput.keydown(function(e) {
   var inputValue = quantityInput.val();
 
   if (keyCode == 13) {
+    document.body.style.backgroundImage = "url('http://www.w3schools.com/css/trolltunga.jpg')";
     var valueseason = $("#dropDownId").val();
 
     var season = (valueseason); 
