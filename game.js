@@ -8,7 +8,7 @@ quantityInput.keydown(function(e) {
 
   if (keyCode == 13) {
     var valueseason = $("#dropDownId").val();
-    console.log (valueseason)
+
     var season = (valueseason); 
     console.log (season)
   
@@ -19,7 +19,7 @@ $.each(arrValues, function (intIndex, char) {
 })
 
     
-    sum = Math.round(sum /45)
+    sum = Math.round(sum /season)
     
     console.log (sum);
     
